@@ -60,7 +60,7 @@ Before running app locally make sure that you've install flowiing things in your
 #### Step 1: Clone the repo
 
 ```sh
-https://github.com/adarshaacharya/MentorLabs.git
+https://github.com/Saysan777/Mentors-Lab.git
 ```
 
 #### Step 2 : Install dependencies
