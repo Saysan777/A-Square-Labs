@@ -141,5 +141,5 @@ Read [CONTRIBUTING.md](https://github.com/adarshaacharya/MentorLabs/blob/master/
 
 ## License
 
-Copyright © 2021 [Aadarsha Acharya](https://adarshaacharya.com.np).
+Copyright © 2021 [Alok Aryal](https://host-next.vercel.app/).
 This project is MIT licensed.
