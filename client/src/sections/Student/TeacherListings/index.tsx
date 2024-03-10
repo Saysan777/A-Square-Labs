@@ -33,7 +33,7 @@ export const TeacherListings = () => {
     return (
       <section className="teacher-listings">
         <Helmet>
-          <title>Teacher Listings | Mentor Labs</title>
+          <title>Teacher Listings | A-Square Labs</title>
         </Helmet>
         <div className="container">
           <EmptyPageMessage message="Please create your profile to view the list of mentors." />
@@ -45,7 +45,7 @@ export const TeacherListings = () => {
   return (
     <section className="teacher-listings">
       <Helmet>
-        <title>Teacher Listings | Mentor Labs</title>
+        <title>Teacher Listings | A-Square Labs</title>
       </Helmet>
       <div className="container">
         <Paragraph type="secondary" className="text--center">

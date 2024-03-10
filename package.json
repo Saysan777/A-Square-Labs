@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "server code for mentor labs",
+  "description": "server code for A-Square",
   "main": "server/main.ts",
   "license": "MIT",
   "scripts": {

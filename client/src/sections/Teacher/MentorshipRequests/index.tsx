@@ -29,7 +29,7 @@ export const TeacherMentorshipRequests = () => {
   return (
     <div className="mentorship-requests">
       <Helmet>
-        <title>Teacher Mentorship Requests | Mentor Labs</title>
+        <title>Teacher Mentorship Requests | A-Square Labs</title>
       </Helmet>
 
       <div className="container">

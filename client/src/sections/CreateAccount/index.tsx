@@ -33,7 +33,7 @@ export const CreateAccount = () => {
   return (
     <Content className="signup">
       <Helmet>
-        <title>Create Account | Mentor Labs</title>
+        <title>Create Account | A-Square Labs</title>
       </Helmet>
       <div className="container">
         <div className="signup__wrapper">

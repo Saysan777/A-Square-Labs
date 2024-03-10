@@ -29,7 +29,7 @@ export const Login = () => {
   return (
     <section className="login">
       <Helmet>
-        <title>Login | Mentor Labs</title>
+        <title>Login | A-Square Labs</title>
       </Helmet>
       <div className="container">
         <div className="login__wrapper">

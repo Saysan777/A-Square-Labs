@@ -28,7 +28,7 @@ export const StudentMentorshipRequests = () => {
   return (
     <div className="mentorship-requests">
       <Helmet>
-        <title>Student Mentorship Requests | Mentor Labs</title>
+        <title>Student Mentorship Requests | A-Square Labs</title>
       </Helmet>
       <div className="container">
         <Divider orientation="left">

@@ -27,7 +27,7 @@ export class ErrorBoundary extends React.Component<{}, ErrorBoundaryState> {
       return (
         <div className="container">
           <Helmet>
-            <title>Error | Mentor Labs</title>
+            <title>Error | A-Square Labs</title>
           </Helmet>
           <Result
             status="500"

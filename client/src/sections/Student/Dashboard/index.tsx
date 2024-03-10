@@ -36,7 +36,7 @@ export const StudentDashboard = () => {
   return (
     <div className="student-dashboard">
       <Helmet>
-        <title>Student Dashboard | Mentor Labs</title>
+        <title>Student Dashboard | A-Square Labs</title>
       </Helmet>
       <div className="container">
         <div className="student-dashboard__title mb-5">

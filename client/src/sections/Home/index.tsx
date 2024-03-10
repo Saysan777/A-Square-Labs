@@ -5,7 +5,7 @@ export const Home = () => {
   return (
     <section className="home">
       <Helmet>
-        <title>Home | Mentor Labs</title>
+        <title>Home | A-Square Labs</title>
       </Helmet>
       <Hero />
       <About />

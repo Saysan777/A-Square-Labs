@@ -19,7 +19,7 @@ export const Room = () => {
   return (
     <section className="room">
       <Helmet>
-        <title>Room - Mentor Labs</title>
+        <title>Room - A-Square Labs</title>
       </Helmet>
       {showOverlay && <Overlay />}
 

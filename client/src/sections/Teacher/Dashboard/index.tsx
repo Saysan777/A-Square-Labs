@@ -27,7 +27,7 @@ export const TeacherDashboard = () => {
   return (
     <div className="teacher-dashboard">
       <Helmet>
-        <title>Teacher Dashboard | Mentor Labs</title>
+        <title>Teacher Dashboard | A-Square Labs</title>
       </Helmet>
       <div className="container">
         <div className="teacher-dashboard__title mb-5">

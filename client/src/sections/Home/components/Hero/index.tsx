@@ -9,7 +9,7 @@ export const Hero = () => {
       <div className="hero">
         <div className="hero__about">
           <h1>
-            Mentor <span className="text--primary">Labs.</span>
+            A-Square <span className="text--primary">Labs.</span>
           </h1>
           <p>
             We are building next generation collaborative learning platform for connecting students with mentors

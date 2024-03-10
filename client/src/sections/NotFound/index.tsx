@@ -11,7 +11,7 @@ export const NotFound = () => {
   return (
     <section className="not-found">
       <Helmet>
-        <title>Not Found | Mentor Labs</title>
+        <title>Not Found | A-Square Labs</title>
       </Helmet>
       <div className="container">
         <div className="not-found__wrapper">

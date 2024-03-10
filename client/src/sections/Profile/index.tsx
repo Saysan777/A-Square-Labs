@@ -40,7 +40,7 @@ export const Profile = () => {
   return (
     <section className="profile">
       <Helmet>
-        <title> Profile | Mentor Labs</title>
+        <title> Profile | A-Square Labs</title>
       </Helmet>
       <div className="container">
         <div className="profile__wrapper">
