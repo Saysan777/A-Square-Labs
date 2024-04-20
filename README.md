@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://mentorlabs.herokuapp.com/">
+<a href="https://A-Square-Labs.herokuapp.com/">
 <img src="media/logo.svg"  alt="logo" height="100px" width="200"/>
 </a>
 
@@ -7,26 +7,26 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/workflow/status/Saysan777/MentorLabs/build" alt="github actions" />
+<img src="https://img.shields.io/github/workflow/status/Saysan777/A-Square-Labs/build" alt="github actions" />
 
-<a href="https://github.com/Saysan777/MentorLabs/blob/master/LICENSE" target="_blank">
-<img alt="License: MIT" src="https://img.shields.io/github/license/Saysan777/MentorLabs" />
+<a href="https://github.com/Saysan777/A-Square-Labs/blob/master/LICENSE" target="_blank">
+<img alt="License: MIT" src="https://img.shields.io/github/license/Saysan777/A-Square-Labs" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://mentorlabs.herokuapp.com">View Demo</a>
+<a href="https://A-Square-Labs.herokuapp.com">View Demo</a>
 ·
-<a href="https://github.com/Saysan777/MentorLabs/issues">Report Bug</a>
+<a href="https://github.com/Saysan777/A-Square-Labs/issues">Report Bug</a>
 ·
-<a href="https://github.com/Saysan777/MentorLabs/issues">Request Feature</a>
+<a href="https://github.com/Saysan777/A-Square-Labs/issues">Request Feature</a>
 </p>
 
 <p align="center">
 Apply for mentorship to the top mentors recommended by our powerful algorithm based on your profile. Enjoy one-to-one live mentorship in our interactive video streaming labs for free.
 </p>
 
-> ⚠️ This is pre-released (experimental) version of [A-Square Labs website](https://mentorlabs.herokuapp.com). That means we are still working to improve the site and breaking changes may occur anytime. So please avoid providing your real profile details as the app isn't fully secure and data may get erased any time. Meanwhile, you can help us by [raising an issue](https://github.com/Saysan777/MentorLabs/issues/new/choose) if you find any bugs in the project.
+> ⚠️ This is pre-released (experimental) version of [A-Square Labs website](https://A-Square-Labs.herokuapp.com). That means we are still working to improve the site and breaking changes may occur anytime. So please avoid providing your real profile details as the app isn't fully secure and data may get erased any time. Meanwhile, you can help us by [raising an issue](https://github.com/Saysan777/A-Square-Labs/issues/new/choose) if you find any bugs in the project.
 
 ## Features
 
@@ -44,7 +44,7 @@ Apply for mentorship to the top mentors recommended by our powerful algorithm ba
 - **Styling** : Ant Design, Custom Css with BEM naming convention
 - **Backend** : Typescript, Node.js, Express.js
 - **Database** : TypeORM with PostgreSQL database
-- **Tesing** : Jest, React Testing Library
+- **Testing** : Jest, React Testing Library
 - **Realtime Communication** : simple-peer (WebRTC), Socket.io
 - **Algorithms** : Jaccard Similarity, Supervised recommendation algorithm, QuickSort Hoare
 - **Deployment** : Server, Client and Database hosted on Heroku
@@ -68,7 +68,7 @@ https://github.com/Saysan777/Mentors-Lab.git
 cd into the directory
 
 ```sh
- cd MentorLabs
+ cd A-Square-Labs
 ```
 
 In the root folder do:
@@ -113,7 +113,7 @@ In the root folder do:
 
 9. Copy everything of [.env.example](./client/.env.example) located inside client directory and paste it inside `.env` file of client directory. (You ca leave `REACT_APP_SENTRY_DSN` field empty)
 
-_The configuration is quite hard tbh, if you encounter any problems in setup you can directy create [issue](github.com/Saysan777/MentorLabs/issues). I will try to work on that._
+_The configuration is quite hard tbh, if you encounter any problems in setup you can directy create [issue](github.com/Saysan777/A-Square-Labs/issues). I will try to work on that._
 
 #### Step 4: Usage
 
@@ -133,7 +133,7 @@ There is a Heroku post build script so that you do not have to compile your Reac
 ## Contributing
 
 Contributions, issues and feature requests are welcome. After cloning & setting up project locally, you can just submit a PR to this repo and it will be deployed once it's accepted.
-Read [CONTRIBUTING.md](https://github.com/Saysan777/MentorLabs/blob/master/CONTRIBUTING.md) for complete contributing guidelines.
+Read [CONTRIBUTING.md](https://github.com/Saysan777/A-Square-Labs/blob/master/CONTRIBUTING.md) for complete contributing guidelines.
 
 ## Contributors
 

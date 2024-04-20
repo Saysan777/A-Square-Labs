@@ -9,7 +9,7 @@
 
 1. Fork project.
 2. Create a branch with the name of feature or issue that you're working on (e.g. `feat/auth`).
-3. Setup project locally reading the [local development guidelines](https://github.com/Saysan777/MentorLabs/blob/master/readme.md#local-development).
+3. Setup project locally reading the [local development guidelines](https://github.com/Saysan777/A-Square-Labs/blob/master/readme.md#local-development).
 3. Once you're done coding create a merge request from your new branch to my `main` branch.
 4. That's it ! I will review your code and merge it into `main` branch.
 

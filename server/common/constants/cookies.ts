@@ -7,4 +7,4 @@ export const THIRTY_DAY_COOKIE = {
   sameSite: true,
 };
 
-export const AUTH_COOKIE = 'MentorLabsToken';
+export const AUTH_COOKIE = 'ASquareLabsToken';
